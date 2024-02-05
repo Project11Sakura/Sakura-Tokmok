@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    color: aqua;
+    text-emphasis: none;
+  
+}
+    
+ 
+
+header{
+    background-color: black;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 10px 20px;
+
+}
+
+button{
+    color: black
+}
+
+.photo {
+    float: right;
+}
+
+*{
+     margin: 0;
+     color: aqua;
+     text-emphasis: none;
+
+
+}
+
+header{
+    background-color: black;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 10px 30px;
+}
+
+.photo {
+    float: right;
+}
